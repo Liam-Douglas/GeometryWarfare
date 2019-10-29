@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coins
+  - SpawnPoint
+  - Rooms
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3088650617
+    locked: 0
+  - name: Forgrount
+    uniqueID: 2990115367
+    locked: 0
+  - name: Actor
+    uniqueID: 3197691113
+    locked: 0
+  - name: UI
+    uniqueID: 3109804861
     locked: 0
